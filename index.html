@@ -8,6 +8,29 @@
     <title>Places you've been!!!!</title>
   </head>
   <body>
-    
+    <div class="container">
+      <div class="jumbotron">
+        <h1>Places You've Been!!!!</h1>
+      </div>
+      <form id="places-form">
+        <div class="form-group">
+          <label for="location">Please enter location:</label>
+          <input id="location" class="form-control" type="text">
+        </div>
+        <div class="form-group">
+          <label for="landmarks">Please enter your favorite landmarks:</label>
+          <input id="landmarks" class="form-control" type="text">
+        </div>
+        <div class="form-group">
+          <label for="language">Please enter primary language:</label>
+          <input id="language" class="form-control" type="text">
+        </div>
+        <div class="form-group">
+          <label for="frequency">Please enter how many times you've visted:</label>
+          <input id="frequency" class="form-control" type="number" min="1" step="1">
+        </div>
+        <button type="submit" class="btn">Submit</button>
+      </form>
+    </div>
   </body>
 </html>
