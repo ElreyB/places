@@ -8,10 +8,14 @@
     <title>Places you've been!!!!</title>
   </head>
   <body>
-    <div class="container">
-      <div class="jumbotron">
-        <h1>Places You've Been!!!!</h1>
-      </div>
+  <div class="container">
+    <video playsinline autoplay muted loop poster="video/10K_Feet/10K_Feet.jpg" id="bgvid">
+        <source src="video/10K_Feet/10K_Feet.mp4" type="video/mp4" />
+        <source src="video/10K_Feet/10K_Feet.webm" type="video/webm" />
+    </video>
+    <div class="jumbotron">
+      <h1>Places You've Been!</h1>
+    </div>
       <form id="places-form">
         <div class="form-group">
           <label for="location">Please enter location:</label>
@@ -33,17 +37,19 @@
       </form>
       <br>
       <br>
-      <div class="row">
-        <div class="col-md-6">
-          <h2>Places</h2>
-          <ul id="places">
-          </ul>
-        </div>
-        <div class="col-md-6">
-          <button id="clear" class="btn">Clear Info</button>
-          <h2>Travel Information</h2>
-          <ul id="info">
-          </ul>
+      <div class="well">
+        <div class="row">
+          <div class="col-md-6">
+            <h2 id="left">Places</h2>
+            <ul id="places">
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <button id="clear" class="btn">Clear Info</button>
+            <h2>Travel Information</h2>
+            <ul id="info">
+            </ul>
+          </div>
         </div>
       </div>
     </div>
