@@ -53,5 +53,7 @@ Elrey Belmonti Elreyb https://github.com/ElreyB code doc tests video design
 Megan Olson MegOlson https://github.com/MegOlson code doc tests video design
 Contributors END -->
 <!-- Contributors table START -->
+| <img src="https://avatars.githubusercontent.com/Belmonti?s=100" width="100" alt="Elrey" /><br />[<sub>Elrey</sub>](Elreyb)<br />undefined [💻](https://github.com/ElreyB/places/commits?author=Belmonti) [📖](https://github.com/ElreyB/places/commits?author=Belmonti) [⚠️](https://github.com/ElreyB/places/commits?author=Belmonti) 📹 🎨 | <img src="https://avatars.githubusercontent.com/Olson?s=100" width="100" alt="Megan" /><br />[<sub>Megan</sub>](MegOlson)<br />undefined [💻](https://github.com/ElreyB/places/commits?author=Olson) [📖](https://github.com/ElreyB/places/commits?author=Olson) [⚠️](https://github.com/ElreyB/places/commits?author=Olson) 📹 🎨 |
+| :---: | :---: |
 <!-- Contributors table END -->
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
