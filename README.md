@@ -49,11 +49,11 @@ _Feel free to contact us at elbelmonti@gmail.com or meganannetteolson@yahoo.com_
 ## Contributors
 
 <!-- Contributors START
-Elrey Belmonti Elreyb https://github.com/ElreyB code doc tests video design
-Megan Olson MegOlson https://github.com/MegOlson code doc tests video design
+Elrey_Belmonti Elreyb https://github.com/ElreyB code doc tests video design
+Megan_Olson MegOlson https://github.com/MegOlson code doc tests video design
 Contributors END -->
 <!-- Contributors table START -->
-| <img src="https://avatars.githubusercontent.com/Belmonti?s=100" width="100" alt="Elrey" /><br />[<sub>Elrey</sub>](Elreyb)<br />undefined [💻](https://github.com/ElreyB/places/commits?author=Belmonti) [📖](https://github.com/ElreyB/places/commits?author=Belmonti) [⚠️](https://github.com/ElreyB/places/commits?author=Belmonti) 📹 🎨 | <img src="https://avatars.githubusercontent.com/Olson?s=100" width="100" alt="Megan" /><br />[<sub>Megan</sub>](MegOlson)<br />undefined [💻](https://github.com/ElreyB/places/commits?author=Olson) [📖](https://github.com/ElreyB/places/commits?author=Olson) [⚠️](https://github.com/ElreyB/places/commits?author=Olson) 📹 🎨 |
+| <img src="https://avatars.githubusercontent.com/Elreyb?s=100" width="100" alt="Elrey Belmonti" /><br />[<sub>Elrey Belmonti</sub>](https://github.com/ElreyB)<br />[💻](https://github.com/ElreyB/places/commits?author=Elreyb) [📖](https://github.com/ElreyB/places/commits?author=Elreyb) [⚠️](https://github.com/ElreyB/places/commits?author=Elreyb) 📹 🎨 | <img src="https://avatars.githubusercontent.com/MegOlson?s=100" width="100" alt="Megan Olson" /><br />[<sub>Megan Olson</sub>](https://github.com/MegOlson)<br />[💻](https://github.com/ElreyB/places/commits?author=MegOlson) [📖](https://github.com/ElreyB/places/commits?author=MegOlson) [⚠️](https://github.com/ElreyB/places/commits?author=MegOlson) 📹 🎨 |
 | :---: | :---: |
 <!-- Contributors table END -->
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
